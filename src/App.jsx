@@ -6,7 +6,7 @@ function App() {
     <>
       <div className="flex justify-center items-center h-[100dvh]">
         <Calculator />
-        <div className="absolute bottom-3 font-robotomono text-[12px] [text-shadow:_0_2px_5px_rgb(0_0_0_/_20%)]">
+        <div className="absolute bottom-3 font-robotomono text-[12px] text-center [text-shadow:_0_2px_5px_rgb(0_0_0_/_20%)]">
           <span>
             Calculator referencing Windows's Calculator with{" "}
             <a
